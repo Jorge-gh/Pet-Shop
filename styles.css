@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 20px;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+}
+
+ul li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+.Seccion1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen1 img{
+    margin: 100px;
+    width: 550px;
+}
+
+.imagen2 img{
+    margin: 0px;
+    width: 400px;
+}
+
+
+.perros{
+    margin-top: 20px;
+}
+
+.perros img{
+    width: 100%;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.Titulo2{
+    padding-top: 100px;
+    margin-left: 200px;
+}
+
+#botonSign{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 20px;
+}
+
+.Seccion2{
+    margin: 0px;
+}
+.texto1 img{
+    width: 400px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-color: yellow;
+    border-radius: 20px ;
+}
+
+.texto2 img{
+    width: 400px;
+}
+
+.texto3 img{
+    width: 100px;
+}
+
+.PersonaConPerro img{
+    width: 100%;
+    margin-top: 150px;
+}
+.textos{
+    display: flex;
+    gap: 104px;
+}
+
+.Seccion3{
+    display: flex;
+    gap: 200px;
+}
+
+.persona img{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.TituloConTexto{
+    padding: 0px;
+    margin-top: 150px;
+}
+
+.Customer{
+    margin-bottom: 50px;
+}
+
+.TextoCustomer{
+    background-color: gray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.footer img{
+    width: 100%;
+}
+
+.PerroFinal img{
+    width: 100%;
+}
